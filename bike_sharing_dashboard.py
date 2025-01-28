@@ -165,9 +165,9 @@ plt.show()
 ##---
 
 ## 7. Kesimpulan
-1. Penggunaan sepeda harian menunjukkan pola musiman dan waktu sibuk.
-2. Cuaca memiliki pengaruh signifikan pada jumlah pengguna sepeda.
-3. Analisis clustering menunjukkan waktu sibuk adalah pagi dan sore, dengan mayoritas pengguna dalam kategori "Sedang" dan "Tinggi".
+#1. Penggunaan sepeda harian menunjukkan pola musiman dan waktu sibuk.
+#2. Cuaca memiliki pengaruh signifikan pada jumlah pengguna sepeda.
+#3. Analisis clustering menunjukkan waktu sibuk adalah pagi dan sore, dengan mayoritas pengguna dalam kategori "Sedang" dan "Tinggi".
 
 ##---
 
